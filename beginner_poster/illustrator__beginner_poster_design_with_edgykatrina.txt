@@ -1,0 +1,26 @@
+1. **bring text up or back** ( allow you to select artwork and change its order in the stack ) of a shape you can use :::  Object >> arrange >> then what you want.
+
+2. If you want to **lock a layer** than use ::: Ctrl + 2 or use Layers section
+
+3. **Copy a Shape** ::: Alt + drag. or Ctrl + C and Ctrl + V.
+
+4. **Change Shape** ::: Go to Effect >> Distort and Transform.
+
+5. **The Direct Selection Tool *** :::  is commonly used to select anchor points and edit shapes. You can delete half portion of shape using this.
+
+6. **pen tool ** :::  It allows you to create shapes with freeform curves.One of the Pen tool's most powerful functions is the ability to draw paths. When you use the Pen tool, 
+		you aren't adding colour to the canvas. You're creating a line path which can then be used to make a vector shape — a flexible, scalable object.
+
+7. **Shape builder** ::: Connect different shape by deleting border.
+
+8. How to make more ** spike in star tool ** ::: CTRL + arrow key.
+
+9. ** ArtBoard tool ** ::: Help create new artboard in illustrator
+
+10. ** Shadow Effect ** ::: Select text -> OBJECT SECTION -> EXPAND -> OBJECT SECTION -> UNGROUP -> EFFECT -> Distort and Transform -> Transform.
+
+11. ** Outline Effect ** ::: Select text -> OBJECT SECTION -> EXPAND -> OBJECT SECTION -> PATH -> OFFSET PATH
+
+12. ** Arc Effect To Text ** ::: Select text ->  EFFECT -> Wrap -> Then do your thing.
+
+13. ** Blur Effect ** :::  Select text ->  EFFECT -> Blur -> Then do your thing.
