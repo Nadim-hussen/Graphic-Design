@@ -1,0 +1,7 @@
+***1. CREATE A MILK BOTTLE ::: 
+	*with a ( pen tool ) you can create a point and that will help to curve a particular point.
+	*you can rotate a something different way with ( object -> transform -> reflect ).
+	*with ( pathfinder ) you can merge two shapes.
+	*if you want to drag specific point of a rectangle use ( selection tool )
+	*if you want to have set offset ( object -> path -> offset path ) and able change the inner color and make outer as a border.
+	
